@@ -1,0 +1,21 @@
+[submodule "DefensiveProgramming"]
+	path = DefensiveProgramming
+	url = https://github.com/AvivNaaman/OpenU-Defensive-Programming.git
+[submodule "Java"]
+	path = Java
+	url = https://github.com/AvivNaaman/OpenU-Java.git
+[submodule "AdvancedJava"]
+	path = AdvancedJava
+	url = https://github.com/AvivNaaman/OpenU-Advanced-Java.git
+[submodule "Compilation"]
+	path = Compilation
+	url = https://github.com/AvivNaaman/OpenU-Compilation.git
+[submodule "OOP"]
+	path = OOP
+	url = https://github.com/AvivNaaman/OpenU-OOP.git
+[submodule "C-SystemsProgramming"]
+	path = C-SystemsProgramming
+	url = https://github.com/AvivNaaman/C-Course-OpenU.git
+[submodule "DataStructures"]
+	path = DataStructures
+	url = https://github.com/AvivNaaman/BloomFilter.git
