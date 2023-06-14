@@ -19,3 +19,6 @@
 [submodule "DataStructures"]
 	path = DataStructures
 	url = https://github.com/AvivNaaman/BloomFilter.git
+[submodule "IntroToSecurity"]
+	path = IntroToSecurity
+	url = https://github.com/AvivNaaman/OpenU-Steganography.git
